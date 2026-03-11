@@ -1,6 +1,6 @@
-# CarLogger — Документація
+# pidvoda — Документація
 
-Офіційна документація для [CarLogger](https://github.com/xoxmasxo) — веб-додатку для відстеження стану автомобілів.
+Офіційна документація для [pidvoda](https://github.com/xoxmasxo) — веб-додатку для відстеження стану автомобілів.
 
 📖 **Онлайн:** [pidvoda.mintlify.app](https://pidvoda.mintlify.app)
 
